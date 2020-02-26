@@ -1,2 +1,3 @@
 # spiritvy.com
-Studio Portfolio
+Studio Spirit. Portfolio
+Create by John Vÿ.
